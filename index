@@ -1,36 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notion Calendar Embed</title>
-    <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-        html, body {
-            height: 100%;
-            background-color: transparent; /* Seamlessly blends into Notion */
-            overflow: hidden;
-        }
-        .calendar-container {
-            width: 100%;
-            height: 100vh;
-            display: flex;
-        }
-        iframe {
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-    </style>
+<title>Page Title</title>
 </head>
 <body>
 
-    <!-- REPLACE YOUR_CALENDAR_ID AND YOUR_TIMEZONE BELOW -->
-    <iframe src="https://calendar.google.com/calendar/embed?src=corinne%40verdantearthsolutions.com&ctz=America%2FChicago" scrolling="no"></iframe>
-
+<div style="width:100%;height:700px;" data-zite-id="w4ty7x1bnt" data-zite-embed-type="standard" data-zite-inherit-parameters><p>What</></p></div><script src="https://server.fillout.com/embed/v2-zite/"></script>  
 </body>
 </html>
+
