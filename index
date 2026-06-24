@@ -30,7 +30,7 @@
 <body>
 
     <!-- REPLACE YOUR_CALENDAR_ID AND YOUR_TIMEZONE BELOW -->
-    <iframe src="https://google.com" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?src=corinne%40verdantearthsolutions.com&ctz=America%2FChicago" scrolling="no"></iframe>
 
 </body>
 </html>
